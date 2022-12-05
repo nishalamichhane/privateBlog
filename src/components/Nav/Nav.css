@@ -1,0 +1,13 @@
+.navbar ul {
+    display: flex;
+    flex-direction: row;
+    gap: 10em;
+    background-color: #61dafb;
+}
+.navbar li {
+    list-style-type: none;
+
+}
+.navbar a {
+    text-decoration: none;
+}
